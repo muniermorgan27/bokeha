@@ -18,7 +18,6 @@ export default async function Home({
     const query = (searchParams.q && (searchParams.q as string)) || undefined;
 
     return (
-        <div className="md:my-2"><h1>{SITENAME} - Video Bokep Indo Jepang Barat Terbaru</h1>
             {query ? (
                 <SearchCardList query={query} banner />
             ) : (
