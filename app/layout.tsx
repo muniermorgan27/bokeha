@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-    metadataBase: new URL("https://bokepingin.pages.dev"),
+    metadataBase: new URL("https://bokeha.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -37,12 +37,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-        "logo": "https://bokepingin.pages.dev/favicon.ico",
-        "url": "https://bokepingin.pages.dev",
+        "logo": "https://bokeha.pages.dev/favicon.ico",
+        "url": "https://bokeha.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bokepingin.pages.dev"
+            "url":"https://bokeha.pages.dev"
             },
             "foundingDate":"2024-01-09"
         }
@@ -50,22 +50,22 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebPage",
         "name": `${SITENAME}`,
-        "url": "https://bokepingin.pages.dev",
+        "url": "https://bokeha.pages.dev",
         "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-        "image": "https://bokepingin.pages.dev/favicon.ico",
+        "image": "https://bokeha.pages.dev/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
-            "target":"https://bokepingin.pages.dev/"}
+            "target":"https://bokeha.pages.dev"}
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bokepingin.pages.dev",
+        "url": "https://bokeha.pages.dev",
         "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bokepingin.pages.dev/?q={search_term}", 
+          "target": "https://bokeha.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
