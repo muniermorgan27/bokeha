@@ -88,7 +88,7 @@ const jsonLd = {
         name: `${file.title}`,
         thumbnailUrl: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Barat Terbaru bocil jilbab smp mama sma hijab abg colmek film tante hot`,
-        url: `https://bokepdedek.pages.dev/v/${file.filecode}`,
+        url: `https://bokeha.pages.dev/v/${file.filecode}`,
         embedUrl: `https://doodstream.com/e/${file.filecode}`,
         uploadDate: new Date(
             file.uploaded + ".000Z"
@@ -98,7 +98,7 @@ const jsonLd = {
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `WatchAction`,
-                target: `https://bokepdedek.pages.dev/v/${file.filecode}`
+                target: `https://bokeha.pages.dev/v/${file.filecode}`
             }  
         }
         }
@@ -108,25 +108,25 @@ const jsonLd = {
         headline: `${file.title}`,
         image: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Barat Terbaru bocil jilbab smp mama sma hijab abg colmek film tante hot`,
-        url: `https://bokepdedek.pages.dev/v/${file.filecode}`,
+        url: `https://bokeha.pages.dev/v/${file.filecode}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
         ).toISOString(),
         publisher: {
             '@type': 'Organization',
             name: `${SITENAME}`,
-            logo: 'https://bokepdedek.pages.dev/favicon.ico'},
+            logo: 'https://bokeha.pages.dev/favicon.ico'},
             author: {
                 '@type': 'Person',
                 name: 'admin',
-                url: 'https://bokepdedek.pages.dev'
+                url: 'https://bokeha.pages.dev'
               },
         interactionStatistic: {
             '@type': `InteractionCounter`,
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `ReadAction`,
-                target: `https://bokepdedek.pages.dev/v/${file.filecode}`
+                target: `https://bokeha.pages.dev/v/${file.filecode}`
             }  
         }
         }
@@ -223,7 +223,7 @@ const jsonLd = {
                 Related Video {file.title}
             </h2>
             <SearchCardList query={file.title.split(" ")[2]} />
-  <Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2x2w264x294&u=http%3A%2F%2Fwww.juicyads.rocks"/>
+  <script type='text/javascript' src='//thermometercourtroomfusion.com/d4/ef/8e/d4ef8ebc2414031a879c86c6aeef0acf.js'></script>
         </div>
     );
 }
